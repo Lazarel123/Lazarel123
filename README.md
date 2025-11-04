@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Arduino+Enthusiast;Open+Source+Contributor" alt="Typing SVG"/>
 </p>
 ---
+
 ## About Me
----
 - I’m currently working on Arduino & Web Projects.
 - I’m learning C, Embedded Systems, and Web Development.
 - Ask me about Arduino, C Programming, Git, or Web Development.
@@ -20,6 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26-FF2D2D?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6-FF2D2D?style=for-the-badge)
 ---
+
 ##  Achievements
 ---
 <p align="center">

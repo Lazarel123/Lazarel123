@@ -31,3 +31,6 @@
 </p>
 
 ---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lazarel123&theme=dark&fire=FF2D2D&currStreakNum=FF2D2D&currStreakLabel=FF2D2D)
+

@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Background GIF" width="100%" />
+</p>
+
+---
+
 ## About Me
 - I’m currently working on Arduino & Web projects.
 - I’m learning C, Embedded Systems, and Web Development.

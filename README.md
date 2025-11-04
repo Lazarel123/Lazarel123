@@ -24,7 +24,7 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lazarel123&theme=darkred&no-frame=true&column=5" alt="GitHub Trophies" />
@@ -32,5 +32,4 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lazarel123&theme=dark&fire=FF2D2D&currStreakNum=FF2D2D&currStreakLabel=FF2D2D)
 

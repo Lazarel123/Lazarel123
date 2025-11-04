@@ -35,4 +35,4 @@
 ## Contact Me
 - [GitHub](https://github.com/Lazarel123)
 - [LinkedIn](https://www.linkedin.com/in/lazarel-goga/)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:lazarelgoga@gmail.com)

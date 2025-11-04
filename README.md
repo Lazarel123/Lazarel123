@@ -24,11 +24,10 @@
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazarel123&show_icons=true&theme=dark&text_color=FF2D2D&icon_color=FF2D2D" />
-</p>
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarel123&layout=compact&theme=dark&text_color=FF2D2D" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lazarel123&theme=darkred&no-frame=true&column=5" alt="GitHub Trophies" />
 </p>
+
+---

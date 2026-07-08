@@ -24,14 +24,6 @@
 
 ---
 
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lazarel123&theme=darkred&no-frame=true&column=5" alt="GitHub Trophies" />
-</p>
-
----
-
 ## Contact Me
 - [GitHub](https://github.com/Lazarel123)
 - [LinkedIn](https://www.linkedin.com/in/lazarel-goga/)
